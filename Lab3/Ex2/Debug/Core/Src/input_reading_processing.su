@@ -1,0 +1,6 @@
+input_reading_processing.c:37:6:getKeyProcess	16	static
+input_reading_processing.c:43:6:get1sFlag	16	static
+input_reading_processing.c:50:6:fsm_input_processing	16	static
+input_reading_processing.c:99:6:button_reading	24	static
+input_reading_processing.c:128:5:is_button_pressed	16	static
+input_reading_processing.c:138:6:is_button_pressed_1s	16	static

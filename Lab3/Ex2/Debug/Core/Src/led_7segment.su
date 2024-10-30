@@ -1,0 +1,4 @@
+led_7segment.c:14:6:display7SEG1	24	static
+led_7segment.c:28:6:updateClockBuffer	16	static
+led_7segment.c:35:6:update7SEG1	16	static
+led_7segment.c:68:6:scanLed	8	static
